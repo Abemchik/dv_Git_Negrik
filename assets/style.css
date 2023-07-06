@@ -1094,5 +1094,22 @@ footer .column3 a{
 .column2{
     padding: 0 15px;
 }
+footer{
+    padding-bottom: 20px;
+}
+#to-top, #to-bottom{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #1fd1b1;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid#1fd1b1;
+}
+#to-top{
+    z-index: 2;
+}
+
 
 
